@@ -5,6 +5,10 @@ langkah langkah
 <p> tentukan bilangan terbesar menggunakan if dan else</p>
 
 ![gambar](dokumentasi/1.png)
+
+<h2>Flowchart</h2>
+![gambar](dokumentasi/flowchart.png)
+
 <h2>Output</h2>
 
 ### Bilangan 1 Terbesar
