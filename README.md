@@ -1,14 +1,21 @@
 # labspy02
-<h1>Bilangan Terbesar dari 3 Bilangan</h1>
+
+langkah langkah
+<h1>input 3 buah bilangan</h1>
+<p> tentukan bilangan terbesar menggunakan if dan else</p>
 
 ![gambar](dokumentasi/1.png)
 <h2>Output</h2>
 
 ### Bilangan 1 Terbesar
 
+
+
 ![gambar](dokumentasi/2.png)
 
 ### Bilangan 2 Terbesar
+
+
 
 ![gambar](dokumentasi/3.png)
 ### Bilangan 3 Terbesar
