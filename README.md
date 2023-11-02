@@ -7,6 +7,7 @@ langkah langkah
 ![gambar](dokumentasi/1.png)
 
 <h2>Flowchart</h2>
+
 ![gambar](dokumentasi/flowchart.png)
 
 <h2>Output</h2>
